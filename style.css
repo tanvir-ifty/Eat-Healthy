@@ -1,0 +1,128 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Mingzat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 10%;
+    width: 100%;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 250%;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+}
+
+#male-img {
+    height: 65%;
+    width: 55%;
+}
+
+span {
+    color: tomato;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 2%;
+    border-radius: 15px;
+}
+
+#para {
+    margin-bottom: 10%;
+    margin-top: 10%;
+    font-size: 150%;
+}
+
+.mid1 {
+    display: flex;
+    width: 70%;
+    height: 70%;
+    background-color: rgb(252, 244, 235);
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+    margin-bottom: 7%;
+    margin-top: -5%;
+
+}
+
+#female-img {
+    height: 100%;
+    width: 150%;
+}
+
+#para1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 150%;
+
+}
+
+#contact {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 1%;
+    border-radius: 15px;
+}
+
+#about-me {
+    margin-right: 22%;
+    margin-left: 15%;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 200%;
+}
+
+#recipe {
+    display: flex;
+    border: ;
+}
+
+.food {
+    height: 30%;
+    width: 50%;
+}
+
+.recipe {
+    text-align: center;
+}
+
+.mid2 {
+    width: 70%;
+    height: 70%;
+}
+
+.food-title {
+    box-shadow: 10px 5px 10px 10px grey;
+    margin-right: 3%;
+    padding: 2%;
+    border-radius: 15px;
+    height: 20%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    margin-right: 30%;
+    padding: 1%;
+    margin-top: 7%;
+}
+
+#footer {
+    color: white;
+}
+
+#fresh {
+    color: gray;
+}
