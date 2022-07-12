@@ -30,13 +30,14 @@ a {
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange, tomato);
-    padding: 2%;
+    padding: 2% 4% 2% 4%;
+    font-size: 125%;
     border-radius: 15px;
 }
 
 #para {
     margin-bottom: 10%;
-    margin-top: 10%;
+    margin-top: -2%;
     font-size: 150%;
 }
 
@@ -60,7 +61,7 @@ a {
 }
 
 #para1 {
-    margin-top: 5%;
+    margin-top: -2%;
     margin-bottom: 5%;
     font-size: 150%;
 
@@ -70,8 +71,9 @@ a {
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange, tomato);
-    padding: 1%;
     border-radius: 15px;
+    padding: 2% 4% 2% 4%;
+    font-size: 125%;
 }
 
 #about-me {
@@ -81,12 +83,11 @@ a {
 
 h2 {
     font-weight: 600;
-    font-size: 200%;
+    font-size: 225%;
 }
 
 #recipe {
     display: flex;
-    border: ;
 }
 
 .food {
@@ -104,16 +105,17 @@ h2 {
 }
 
 .food-title {
-    box-shadow: 10px 5px 10px 10px grey;
+    box-shadow: 15px 15px 15px 15px rgb(231, 229, 229);
     margin-right: 3%;
     padding: 2%;
     border-radius: 15px;
     height: 20%;
+    margin-top: -2%;
 }
 
 .mid3 {
     display: flex;
-    box-shadow: 10px 5px 10px 10px grey;
+    box-shadow: 15px 15px 15px 15px rgb(231, 229, 229);
     margin-right: 32%;
     margin-top: 7%;
     padding: 3%;
@@ -143,4 +145,8 @@ footer {
 
 #fresh {
     color: gray;
+}
+
+h3 {
+    font-size: 150%;
 }
